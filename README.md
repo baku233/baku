@@ -1,4 +1,4 @@
-## Phantom for Jekyll
+## Baku
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
